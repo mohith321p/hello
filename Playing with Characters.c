@@ -8,5 +8,5 @@ int main() {
     printf("%c",c);
     printf("\n%s\n",s);
    printf("%s",sen);
-    
+     
 }
