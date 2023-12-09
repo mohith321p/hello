@@ -27,4 +27,4 @@ if(i%2==0&&i>9)
 printf("even\n");
 if(i%2!=0&&i>9)
 printf("odd\n");
-}}
+}} 
